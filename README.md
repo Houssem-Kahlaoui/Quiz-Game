@@ -28,5 +28,3 @@ A fun, interactive quiz game with 9 different categories!
 ## 🛠️ Requirements
 - Python 3.x
 - No external libraries needed!
-
-## 📸 Screenshots
